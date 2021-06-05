@@ -1,1 +1,0 @@
-# MahalanobisOOD_ResNET_BERT
